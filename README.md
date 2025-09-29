@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Fiza Talpur
 
 <!--
 **fizatalpur/fizatalpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a **Software Engineering student** and a passionate **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js).
